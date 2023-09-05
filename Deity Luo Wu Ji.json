@@ -4,5 +4,16 @@
   "artist": "Big Devil Comics",
   "author": "Luoshu",
   "cover": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx129951-q8pZyQ7VWiwj.jpg",
-  "chapters": {}
+  "chapters": {
+    "182": {
+      "title": "182",
+      "volume": "182",
+      "last_updated": "1693955089",
+      "groups": {
+        "": [
+          "https://lscomic.com/manga/deity-luo-wu-ji/chapter-182/"
+        ]
+      }
+    }
+  }
 }
